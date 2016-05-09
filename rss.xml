@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Tony Castro Music]]></title>
         <description><![CDATA[Tony Castro Music]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tony-castro-music/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 08:29:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 May 2016 08:31:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tony-castro-music/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/deb11112-ccc4-47da-b166-f23c0f39508b.jpg">]]></description>
+            <link>https://thegrid.ai/tony-castro-music/dios-nunca-deja-de-amarnos-y-su-gracia-para-con-nosotros-es/index.html</link>
+            <guid isPermaLink="false">a968b664-4308-4b7f-a328-9139f21edf3f</guid>
+            <pubDate>Mon, 09 May 2016 08:31:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc2e902c-7da7-4827-8ab5-e344150c3d20.jpg">]]></description>
-            <link>undefinedb67d4b18-7e5a-476e-95a0-336365beeae9/index.html</link>
+            <link>https://thegrid.ai/tony-castro-music/b67d4b18-7e5a-476e-95a0-336365beeae9/index.html</link>
             <guid isPermaLink="false">b67d4b18-7e5a-476e-95a0-336365beeae9</guid>
             <pubDate>Mon, 09 May 2016 08:28:58 GMT</pubDate>
         </item>
