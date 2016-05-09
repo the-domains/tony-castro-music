@@ -1,6 +1,6 @@
 name: tony castro music
 favicon: null
-layout_spectrum: 0.05656436108984053
+layout_spectrum: 0.35461
 typography_spectrum: 0.9719870558474213
 title: Tony Castro Music
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#15212d'
+    - '#716f7c'
+    - '#f5efd7'
+    - '#993947'
+    - '#b19e97'
   brandStrength: 0.9026359752751887
   lightness: 0.7524198913015425
   saturation: 0.21665435703471303
