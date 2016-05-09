@@ -1,0 +1,28 @@
+name: tony castro music
+favicon: null
+layout_spectrum: 0.05656436108984053
+typography_spectrum: 0.9719870558474213
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9026359752751887
+  lightness: 0.7524198913015425
+  saturation: 0.21665435703471303
+  rhythmicContrast: 0.3035087857861072
+purpose: []
