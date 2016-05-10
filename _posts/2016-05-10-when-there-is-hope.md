@@ -1,12 +1,12 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: Test
-datePublished: '2016-05-10T08:03:45.476Z'
-dateModified: '2016-05-10T07:59:09.780Z'
+datePublished: '2016-05-10T08:37:46.581Z'
+dateModified: '2016-05-10T08:37:46.236Z'
 title: When there is hope
 author: []
 sourcePath: _posts/2016-05-10-when-there-is-hope.md
@@ -16,9 +16,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: when-there-is-hope/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5db1f573-6008-4eea-ae8f-9ae8bff49746.jpg)
