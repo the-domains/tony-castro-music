@@ -1,8 +1,8 @@
+name: Tony Castro Music
+favicon: null
+layout_spectrum: 0
 typography_spectrum: 0.506383
-opengraph:
-  image: null
-  type: null
-  appId: null
+title: Tony Castro Music
 collections:
   - index:
       path: /
@@ -15,27 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0
-title: Tony Castro Music
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.506383
-  brandStrength: 0.6744681
-  rhythmicContrast: 0.5
   brandColors:
     - '#F5F5F6'
     - '#01013D'
     - '#A4A2B5'
     - '#34343F'
     - '#3B5BA7'
+  brandStrength: 0.6744681
   lightness: 0.4978724
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: tony castro music
+  saturation: 0.1875
+  rhythmicContrast: 0.5
+purpose: []
