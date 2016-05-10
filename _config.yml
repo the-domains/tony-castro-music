@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 1
+  saturation: 0.4957447
   brandStrength: 1
-  lightness: 0.7042553
+  lightness: 0.4212766
   brandColors:
     - '#8499AA'
     - '#B5C3CC'
     - '#748396'
     - '#50637B'
     - '#1C3657'
-  rhythmicContrast: 0
+  rhythmicContrast: 0.4978724
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Tony Castro Music
+favicon: null
 opengraph:
   image: null
   type: null
