@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Tony Castro Music]]></title>
         <description><![CDATA[Tony Castro Music]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tony-castro-music/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 07:58:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 10 May 2016 08:00:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tony-castro-music/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Home]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa151f7f-2dcf-485f-86da-ee5b2160879c.jpg" alt="" title="">]]></description>
-            <link>undefinedhome/index.html</link>
+            <link>https://thegrid.ai/tony-castro-music/home/index.html</link>
             <guid isPermaLink="false">4829410f-d259-48c7-b3d7-b3faca869f45</guid>
-            <pubDate>Tue, 10 May 2016 07:57:59 GMT</pubDate>
+            <pubDate>Tue, 10 May 2016 08:00:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
