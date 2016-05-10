@@ -1,18 +1,28 @@
 ---
-dateModified: '2016-05-10T05:53:58.743Z'
-author: []
-title: 'tony castro live | Music, Faith and Inspiration.'
-isBasedOnUrl: 'http://tonycastrolive.com'
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
+keywords: []
 description: 'http://tonycastrolive.com'
-datePublished: '2016-05-10T05:54:12.743Z'
-starred: false
+datePublished: '2016-05-10T06:23:53.702Z'
+dateModified: '2016-05-10T06:13:41.400Z'
+title: 'tony castro live | Music, Faith and Inspiration.'
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-10-tony-castro-live-or-music-faith-and-inspiration.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+url: tony-castro-live-or-music-faith-and-inspiration/index.html
+_type: WebPage
 
 ---
-<article style=""><h1>tony castro live | Music, Faith and Inspiration.</h1><img src="http://tonycastrolive.com/wp-content/uploads/2015/07/TONY-CASTRO-PICS-015.jpg" /></article>
+<article style=""><h1>tony castro live | Music, Faith and Inspiration.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47aae28be2b15374644a1ec742cb35d607106c1d.jpg" /></article>
 
 http://tonycastrolive.com
