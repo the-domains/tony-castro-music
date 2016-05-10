@@ -14,14 +14,14 @@ collections:
       path: '/:title/'
 color:
   saturation: 0
-  brandStrength: 0.6744681
+  brandStrength: 1
   lightness: 0.875
   brandColors:
-    - '#FFFFFF'
-    - '#000000'
-    - '#AEAEAE'
-    - '#323232'
-    - '#757575'
+    - '#D2D2D2'
+    - '#3A4973'
+    - '#030303'
+    - '#D5838A'
+    - '#6A7591'
   rhythmicContrast: 0.5
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Tony Castro Music
+favicon: null
 opengraph:
   image: null
   type: null
