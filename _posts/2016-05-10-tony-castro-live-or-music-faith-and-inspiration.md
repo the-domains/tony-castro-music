@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'http://tonycastrolive.com'
-datePublished: '2016-05-10T07:53:11.128Z'
-dateModified: '2016-05-10T07:53:07.902Z'
+datePublished: '2016-05-10T07:55:16.172Z'
+dateModified: '2016-05-10T07:55:12.081Z'
 title: 'tony castro live | Music, Faith and Inspiration.'
 author:
   - name: ''
@@ -29,5 +29,6 @@ http://tonycastrolive.com
 
 Actualmente ha lanzado un nuevo sencillo titulado "
 
-> "La música ya está disponible en iTunes y ha sido distribuida para varias radios en Estados Unidos y Latino América.  
->
+> "La música ya está disponible en iTunes y ha sido distribuida para varias radios en Estados Unidos y Latino América.
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f13eae34-7953-4e6e-a413-7e49cd3e9eff.jpg)
