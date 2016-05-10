@@ -15,7 +15,7 @@ collections:
 color:
   saturation: 0
   brandStrength: 1
-  lightness: 0
+  lightness: 0.5106383
   brandColors:
     - '#FEFFFF'
     - '#24213C'
