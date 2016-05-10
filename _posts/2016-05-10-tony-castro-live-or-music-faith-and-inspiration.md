@@ -1,12 +1,12 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: 'http://tonycastrolive.com'
-datePublished: '2016-05-10T06:24:26.793Z'
-dateModified: '2016-05-10T06:24:03.104Z'
+datePublished: '2016-05-10T07:52:01.121Z'
+dateModified: '2016-05-10T06:24:44.037Z'
 title: 'tony castro live | Music, Faith and Inspiration.'
 author:
   - name: ''
@@ -20,7 +20,7 @@ publisher:
   favicon: null
 starred: false
 url: tony-castro-live-or-music-faith-and-inspiration/index.html
-_type: WebPage
+_type: MediaObject
 
 ---
 <article style=""><h1>tony castro live | Music, Faith and Inspiration.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47aae28be2b15374644a1ec742cb35d607106c1d.jpg" /></article>
