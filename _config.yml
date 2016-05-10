@@ -17,11 +17,11 @@ color:
   brandStrength: 0.5382979
   lightness: 1
   brandColors:
+    - '#B6B6AC'
     - '#FFFFFF'
-    - '#676767'
-    - '#000000'
-    - '#FF8A39'
-    - '#00B5C8'
+    - '#0A0F15'
+    - '#868F94'
+    - '#463D36'
   rhythmicContrast: 1
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: tony castro music
+favicon: null
 opengraph:
   image: null
   type: null
