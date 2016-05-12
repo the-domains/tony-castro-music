@@ -1,5 +1,8 @@
+name: Tony Castro Music
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.506383
 title: Tony Castro Music
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4957447
-  brandStrength: 0.793617
-  lightness: 0.4212766
   brandColors:
     - '#8499AA'
     - '#B5C3CC'
     - '#748396'
     - '#50637B'
     - '#1C3657'
+  brandStrength: 0.793617
+  lightness: 0.4212766
+  saturation: 0.4957447
   rhythmicContrast: 0.4978724
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Tony Castro Music
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.506383
-layout_spectrum: 0
+purpose: []
