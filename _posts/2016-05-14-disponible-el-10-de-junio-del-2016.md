@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Disponible, el 10 de Junio del 2016'
-datePublished: '2016-05-14T08:43:22.076Z'
-dateModified: '2016-05-14T08:43:16.915Z'
+datePublished: '2016-05-14T09:04:31.031Z'
+dateModified: '2016-05-14T09:04:05.218Z'
 title: ''
 author:
   - name: ''
@@ -23,5 +23,6 @@ url: disponible-el-10-de-junio-del-2016/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa79187b-6ffc-4ef4-bc57-539842c3b8f8.jpg)
+
 Disponible, el 10 de Junio del 2016
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8dc4c9a875252f895b366c37ea31f3d5bd32e9a.jpg)
