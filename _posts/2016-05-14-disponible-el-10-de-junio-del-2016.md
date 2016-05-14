@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Disponible, el 10 de Junio del 2016'
-datePublished: '2016-05-14T08:30:51.791Z'
-dateModified: '2016-05-14T08:30:37.116Z'
+datePublished: '2016-05-14T08:36:51.371Z'
+dateModified: '2016-05-14T08:32:43.035Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-14-disponible-el-10-de-junio-del-2016.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-14-disponible-el-10-de-junio-del-2016.md
 url: disponible-el-10-de-junio-del-2016/index.html
 _type: Article
 
