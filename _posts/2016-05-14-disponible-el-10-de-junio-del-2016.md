@@ -1,19 +1,19 @@
 ---
-description: Disponible el 10 de Junio del 2016.
-datePublished: '2016-05-18T19:28:01.629Z'
-inNav: false
+inFeed: true
+hasPage: true
+inNav: true
 inLanguage: null
+keywords: []
+description: Disponible el 10 de Junio del 2016.
+datePublished: '2016-05-18T19:40:19.498Z'
+dateModified: '2016-05-18T19:39:58.330Z'
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-05-14-disponible-el-10-de-junio-del-2016.md
-hasPage: true
-authors: []
 title: Nuevo Sencillo
+authors: []
 publisher: null
-keywords: []
-dateModified: '2016-05-18T19:27:51.776Z'
-inFeed: true
 starred: true
 url: nuevo-sencillo/index.html
 _type: Article
