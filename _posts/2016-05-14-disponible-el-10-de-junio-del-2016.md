@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Disponible el 10 de Junio
-datePublished: '2016-05-18T05:53:34.088Z'
-dateModified: '2016-05-18T05:53:31.253Z'
+datePublished: '2016-05-18T05:54:01.343Z'
+dateModified: '2016-05-18T05:53:58.664Z'
 title: '"Vía de Amor " es el título del nuevo sencillo de Tony Castro que estará disponible en todas las plataformas digitales el 10 de Junio del 2016.'
 author:
   - name: ''
