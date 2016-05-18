@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Disponible el 10 de Junio del 2016.
-datePublished: '2016-05-18T06:10:05.051Z'
-dateModified: '2016-05-18T06:10:04.306Z'
+datePublished: '2016-05-18T06:20:30.792Z'
+dateModified: '2016-05-18T06:20:26.321Z'
 title: Nuevo Sencillo
 author:
   - name: ''
@@ -23,7 +23,7 @@ url: disponible-el-10-de-junio-del-2016/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef460f8d-5ae7-4dd9-a92f-7efaa52d4622.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b09f43212974ad5cef3ce2875a48e1c5d64ca922.jpg)
 
 Disponible el **10 de Junio** del 2016\.
 
