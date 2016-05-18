@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Disponible el 10 de Junio
-datePublished: '2016-05-18T05:59:01.705Z'
-dateModified: '2016-05-18T05:59:01.197Z'
+description: DISPONIBLE EL 10 DE JUNIO DEL 2016.
+datePublished: '2016-05-18T06:01:10.605Z'
+dateModified: '2016-05-18T06:01:10.244Z'
 title: ''
 author:
   - name: ''
@@ -25,7 +25,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef460f8d-5ae7-4dd9-a92f-7efaa52d4622.jpg)
 
-Disponible el 10 de Junio
+DISPONIBLE EL **10 DE JUNIO DEL 2016**.
 
 # Nuevo Sencillo
 
