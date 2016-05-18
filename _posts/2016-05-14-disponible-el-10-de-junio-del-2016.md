@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Disponible el 10 de Junio
-datePublished: '2016-05-18T05:50:15.037Z'
-dateModified: '2016-05-18T05:49:59.516Z'
+datePublished: '2016-05-18T05:50:51.511Z'
+dateModified: '2016-05-18T05:50:39.892Z'
 title: "\"Este nuevo canto será parte de mi segundo álbum musical que estará disponible próximamente. Estoy muy emocionado de poder compartir nueva música con letra que te inspira y con sonido 'indie-rock-alternativo'. Esperen mas noticias muy pronto y muchas gracias a todos por estar pendientes.\""
 author:
   - name: ''
