@@ -4,7 +4,7 @@
         <description><![CDATA[Tony Castro Music]]></description>
         <link>http://tonycastromusic.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 06:42:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 07:44:46 GMT</lastBuildDate>
         <atom:link href="http://tonycastromusic.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[NUEVO SENCILLO]]></title>
@@ -14,11 +14,18 @@
             <pubDate>Wed, 29 Jun 2016 06:21:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sencillo del 2015]]></title>
+            <description><![CDATA[<article><h1>Sencillo del 2015</h1><p>Un tema musical muy personal con significativos muy profundos, "Fluye en Mi" es una oración sincera de parte de Tony, pidiéndole a Dios el derramamiento del Espíritu Santo sobre su vida. Esta suplica es pintada para el oyente con palabras descriptivas junto a un sonido fresco y moderno. Disponible en todas las plataformas digitales.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0b0b9b0-4301-42bd-9f73-7113bce17915.jpg"></article>]]></description>
+            <link>http://smarturl.it/fluyeenmi</link>
+            <guid isPermaLink="false">38633362-6aa7-47f5-94fb-35efc32b5966</guid>
+            <pubDate>Wed, 29 Jun 2016 07:44:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[SEGUNDO SENCILLO]]></title>
             <description><![CDATA[<article><h1>SEGUNDO SENCILLO</h1><p>Este Roto Corazón - estará disponible el 15 de Julio.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4c9e539-a831-4fcd-8a17-1ad55383a2c6.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4c9e539-a831-4fcd-8a17-1ad55383a2c6.jpg</link>
+            <link>http://tonycastromusic.ca/segundo-sencillo/index.html</link>
             <guid isPermaLink="false">43baf020-09af-42b2-afb6-64b36157eab3</guid>
-            <pubDate>Wed, 29 Jun 2016 06:42:29 GMT</pubDate>
+            <pubDate>Wed, 29 Jun 2016 06:43:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
