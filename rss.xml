@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Tony Castro Music]]></title>
         <description><![CDATA[Tony Castro Music]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://tonycastromusic.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 02:46:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 29 Jun 2016 04:52:35 GMT</lastBuildDate>
+        <atom:link href="http://tonycastromusic.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[NUEVO SENCILLO]]></title>
             <description><![CDATA[<article><h1>NUEVO SENCILLO</h1><h2>"Vía de Amor " es el título del nuevo sencillo de Tony Castro que ya esta disponible en todas las plataformas digitales.</h2><p>Disponible ya en todas las plataformas digitales.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b09f43212974ad5cef3ce2875a48e1c5d64ca922.jpg"></article>]]></description>
-            <link>undefinednuevo-sencillo/index.html</link>
+            <link>http://tonycastromusic.ca/nuevo-sencillo/index.html</link>
             <guid isPermaLink="false">14f4c394-b20f-4fb6-aa3c-f7792883534f</guid>
             <pubDate>Mon, 27 Jun 2016 02:46:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Segundo sencillo musical disponible el 15 de Julio.]]></title>
+            <description><![CDATA[<article><h1>Segundo sencillo musical disponible el 15 de Julio.</h1><p>Segundo sencillo musical de Tony Castro, titulado "Este Roto Corazón" estará disponible el 15 de Julio.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4c9e539-a831-4fcd-8a17-1ad55383a2c6.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4c9e539-a831-4fcd-8a17-1ad55383a2c6.jpg</link>
+            <guid isPermaLink="false">43baf020-09af-42b2-afb6-64b36157eab3</guid>
+            <pubDate>Wed, 29 Jun 2016 04:52:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
