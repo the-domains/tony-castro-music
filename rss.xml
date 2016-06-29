@@ -4,7 +4,7 @@
         <description><![CDATA[Tony Castro Music]]></description>
         <link>http://tonycastromusic.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 14:49:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 14:50:26 GMT</lastBuildDate>
         <atom:link href="http://tonycastromusic.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[NUEVO SENCILLO]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonycastromusic.ca/nuevo-sencillo/index.html</link>
             <guid isPermaLink="false">14f4c394-b20f-4fb6-aa3c-f7792883534f</guid>
             <pubDate>Wed, 29 Jun 2016 09:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PRIMER ALBUM MUSICAL - 2013]]></title>
+            <description><![CDATA[<article><h1>PRIMER ALBUM MUSICAL - 2013</h1><p>Su primer proyecto musical fue lanzado en Abril del año 2013. Haz 'clic' en la imagen para escuchar.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5110fd9-5012-44b0-ab42-e2b7702f9649.jpg"></article>]]></description>
+            <link>http://tonycastromusic.ca/primer-album-musical-2013/index.html</link>
+            <guid isPermaLink="false">6fdfec2b-9106-4eac-a21b-2ce463a86f17</guid>
+            <pubDate>Wed, 29 Jun 2016 14:50:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SENCILLO DEL 2015]]></title>
