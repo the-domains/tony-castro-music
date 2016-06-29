@@ -15,7 +15,7 @@ collections:
 color:
   saturation: 0.4957447
   brandStrength: 1
-  lightness: 0.4212766
+  lightness: 0.6723405
   brandColors:
     - '#305D96'
     - '#102135'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Tony Castro Music
+favicon: null
 opengraph:
   image: null
   type: null
