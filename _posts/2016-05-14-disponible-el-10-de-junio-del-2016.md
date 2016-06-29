@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Disponible ya en todas las plataformas digitales.
-datePublished: '2016-06-29T08:01:47.615Z'
-dateModified: '2016-06-29T08:01:43.429Z'
+datePublished: '2016-06-29T09:00:20.095Z'
+dateModified: '2016-06-29T08:59:44.532Z'
 author:
   - name: ''
     url: ''
@@ -19,7 +19,7 @@ url: nuevo-sencillo/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b09f43212974ad5cef3ce2875a48e1c5d64ca922.jpg)
+![smarturl.it/ViadeAmor](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b09f43212974ad5cef3ce2875a48e1c5d64ca922.jpg)
 
 Disponible ya en todas las plataformas digitales.
 
