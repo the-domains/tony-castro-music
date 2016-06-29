@@ -4,7 +4,7 @@
         <description><![CDATA[Tony Castro Music]]></description>
         <link>http://tonycastromusic.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 14:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 14:44:38 GMT</lastBuildDate>
         <atom:link href="http://tonycastromusic.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[NUEVO SENCILLO]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonycastromusic.ca/nuevo-sencillo/index.html</link>
             <guid isPermaLink="false">14f4c394-b20f-4fb6-aa3c-f7792883534f</guid>
             <pubDate>Wed, 29 Jun 2016 09:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SENCILLO DEL 2015]]></title>
+            <description><![CDATA[<article><h1>SENCILLO DEL 2015</h1><p>Un tema musical muy personal con significativos muy profundos, "FLUYE EN MI” es una oración sincera de parte de Tony, pidiéndole a Dios el derramamiento del Espíritu Santo sobre su vida. Esta suplica es pintada para el oyente con palabras descriptivas junto a un sonido fresco y moderno.Disponible en todas las plataformas digitales.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0b0b9b0-4301-42bd-9f73-7113bce17915.jpg"></article>]]></description>
+            <link>http://tonycastromusic.ca/sencillo-del-2015/index.html</link>
+            <guid isPermaLink="false">38633362-6aa7-47f5-94fb-35efc32b5966</guid>
+            <pubDate>Wed, 29 Jun 2016 14:44:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PRIMER ALBUM MUSICAL - 2013]]></title>
@@ -26,13 +33,6 @@
             <link>http://tonycastromusic.ca/segundo-sencillo-2016/index.html</link>
             <guid isPermaLink="false">43baf020-09af-42b2-afb6-64b36157eab3</guid>
             <pubDate>Wed, 29 Jun 2016 14:30:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SENCILLO DEL 2015]]></title>
-            <description><![CDATA[<article><h1>SENCILLO DEL 2015</h1><p>Un tema musical muy personal con significativos muy profundos, "FLUYE EN MI” es una oración sincera de parte de Tony, pidiéndole a Dios el derramamiento del Espíritu Santo sobre su vida. Esta suplica es pintada para el oyente con palabras descriptivas junto a un sonido fresco y moderno.Disponible en todas las plataformas digitales.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0b0b9b0-4301-42bd-9f73-7113bce17915.jpg"></article>]]></description>
-            <link>http://tonycastromusic.ca/sencillo-del-2015/index.html</link>
-            <guid isPermaLink="false">38633362-6aa7-47f5-94fb-35efc32b5966</guid>
-            <pubDate>Wed, 29 Jun 2016 14:25:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
