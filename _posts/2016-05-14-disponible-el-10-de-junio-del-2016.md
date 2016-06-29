@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Disponible ya en todas las plataformas digitales.
-datePublished: '2016-06-29T06:21:46.469Z'
-dateModified: '2016-06-29T06:20:33.041Z'
+datePublished: '2016-06-29T08:01:47.615Z'
+dateModified: '2016-06-29T08:01:43.429Z'
 author:
   - name: ''
     url: ''
