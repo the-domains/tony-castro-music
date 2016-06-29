@@ -13,9 +13,9 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 1
+  saturation: 0.4744681
   brandStrength: 1
-  lightness: 0.3319149
+  lightness: 0.1489362
   brandColors:
     - '#305D96'
     - '#102135'
@@ -37,5 +37,5 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.5255319
+typography_spectrum: 0.5085106
 layout_spectrum: 0.1702128
