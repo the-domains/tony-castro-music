@@ -4,7 +4,7 @@
         <description><![CDATA[Tony Castro Music]]></description>
         <link>http://tonycastromusic.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 14:48:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 14:49:18 GMT</lastBuildDate>
         <atom:link href="http://tonycastromusic.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[NUEVO SENCILLO]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonycastromusic.ca/nuevo-sencillo/index.html</link>
             <guid isPermaLink="false">14f4c394-b20f-4fb6-aa3c-f7792883534f</guid>
             <pubDate>Wed, 29 Jun 2016 09:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SENCILLO DEL 2015]]></title>
+            <description><![CDATA[<article><h1>SENCILLO DEL 2015</h1><p>"FLUYE EN MI" disponible ya. Haz 'clic' en la imagen para escuchar.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0b0b9b0-4301-42bd-9f73-7113bce17915.jpg"></article>]]></description>
+            <link>http://tonycastromusic.ca/sencillo-del-2015/index.html</link>
+            <guid isPermaLink="false">38633362-6aa7-47f5-94fb-35efc32b5966</guid>
+            <pubDate>Wed, 29 Jun 2016 14:49:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SEGUNDO SENCILLO - 2016]]></title>
