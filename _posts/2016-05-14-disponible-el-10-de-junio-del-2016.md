@@ -1,19 +1,19 @@
 ---
-description: Disponible ya en todas las plataformas digitales.
-datePublished: '2016-06-29T05:27:35.585Z'
+inFeed: true
+hasPage: true
 inNav: true
 inLanguage: null
+keywords: []
+description: Disponible ya en todas las plataformas digitales.
+datePublished: '2016-06-29T06:10:59.300Z'
+dateModified: '2016-06-29T06:09:50.761Z'
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-05-14-disponible-el-10-de-junio-del-2016.md
-hasPage: true
-authors: []
 title: NUEVO SENCILLO
+authors: []
 publisher: null
-keywords: []
-dateModified: '2016-06-29T05:23:24.599Z'
-inFeed: true
 starred: true
 url: nuevo-sencillo/index.html
 _type: Article
