@@ -22,17 +22,17 @@ color:
     - '#1F3B60'
     - '#050A10'
     - '#E3E7EB'
-  rhythmicContrast: 0.7127659
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
 name: Tony Castro Music
-favicon: null
 opengraph:
   image: null
   type: null
