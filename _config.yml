@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Tony Castro Music
 favicon: null
+name: Tony Castro Music
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.5148936
-layout_spectrum: 0.4893617
+layout_spectrum: 0.1851064
