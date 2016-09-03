@@ -13,26 +13,26 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 1
+  saturation: 0
   brandStrength: 1
-  lightness: 1
+  lightness: 0
   brandColors:
     - '#305D96'
     - '#102135'
     - '#1F3B60'
     - '#050A10'
     - '#E3E7EB'
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
 name: Tony Castro Music
-favicon: null
 opengraph:
   image: null
   type: null
